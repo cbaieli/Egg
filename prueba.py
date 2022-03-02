@@ -5,6 +5,7 @@ suma = numero1 + numero2
 resta = numero1 - numero2
 producto = numero1 * numero2
 division = numero1 / numero2
+algo = "asdfasdf"
 
 print("Variables a utilizar")
 print("Primer numero")
